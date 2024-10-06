@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Zoom Clone',
+      title: 'ConnectHub',
       theme: ThemeData.dark(useMaterial3: true)
           .copyWith(scaffoldBackgroundColor: backgroundColor),
       routes: {
